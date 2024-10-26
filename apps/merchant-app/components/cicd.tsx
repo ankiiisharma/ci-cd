@@ -4,6 +4,7 @@ const cicd = () => {
   return (
     <> 
         <p> PR1 - 26 oct 2024 .. </p>
+        <p> PR2 - 26 oct 2024 .. </p>
     </>
   )
 }
